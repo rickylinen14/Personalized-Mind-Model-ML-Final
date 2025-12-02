@@ -53,7 +53,7 @@
 
 - **準確率 (Accuracy)：** LSTM 模型在測試集上達到 **90.26%**。
     
-- **抗噪能力 (Robustness)：** 如下圖所示，LSTM (紅線) 相比於 Baseline (藍線)，能有效過濾短期行為雜訊，展現極佳的預測穩定性。![[LSTM_vs_LR_result.png]]
+- **抗噪能力 (Robustness)：** 如下圖所示，LSTM (紅線) 相比於 Baseline (藍線)，能有效過濾短期行為雜訊，展現極佳的預測穩定性。![Comparison](images/LSTM_vs_LR_result.png)
     
 
 ## 📑 專案報告 (Project Report)
