@@ -44,6 +44,9 @@
 - **`requirements.txt`**
     
     - **內容：** 專案所需的 Python 套件列表。
+-  **`images`**
+    
+    - 存放報告與 README 使用的實驗結果截圖與架構圖。
         
 
 ## 📊 實驗結果亮點 (Results)
