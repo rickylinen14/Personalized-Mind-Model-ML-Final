@@ -104,10 +104,6 @@ _(程式將自動進行訓練、驗證，並輸出 `LSTM_vs_LR_result.png` 與 `
         
     - **內容：** 包含 `time_step`, `speed`, `error_rate`, `label_state`, `session_id` 等欄位。
         
-- **`lstm_model.pth`** (執行程式後產生)
-    
-    - 這是訓練好的 PyTorch 模型權重檔。程式會自動儲存與讀取，避免重複訓練。
-        
 - **圖片檔案 (*.png)**
     
     - 包含 `code_result.png` (執行結果截圖)、`model_verification_matrix.png` (混淆矩陣) ...... 等，皆為報告中使用的素材或程式輸出的結果。
